@@ -1,0 +1,21 @@
+{
+    "name": "postgresql-softvisio-cron",
+    "version": "1.0.0",
+    "private": true,
+    "description": "PostgreSQL cron schema",
+    "keywords": [
+        "softvisio",
+        "postgresql"
+    ],
+    "homepage": "https://github.com/softvisio/postgresql-softvisio-cron",
+    "bugs": {
+        "url": "https://github.com/softvisio/postgresql-softvisio-cron/issues",
+        "email": "zdm@softvisio.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/softvisio/postgresql-softvisio-cron.git"
+    },
+    "license": "ISC",
+    "author": "zdm <zdm@softvisio.net>"
+}

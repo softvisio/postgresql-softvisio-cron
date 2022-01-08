@@ -1,0 +1,17 @@
+# PostgreSQL cron schema
+
+## Install / update / drop
+
+```
+CREATE EXTENSION softvisio_cron;
+
+ALTER EXTENSION softvisio_cron UPDATE;
+
+DROP EXTENSION IF EXISTS softvisio_cron;
+```
+
+## Build
+
+```
+gmake USE_PGXS=1 install
+```

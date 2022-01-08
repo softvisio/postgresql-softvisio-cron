@@ -1,0 +1,7 @@
+default_version = '1.0.0'
+comment = 'Cron schema'
+requires = ''
+superuser = true
+# trusted = false
+module_pathname = ''
+relocatable = true
