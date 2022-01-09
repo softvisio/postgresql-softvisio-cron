@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.0 (2022-01-09)
+
+Features:
+
+-   feat: refactored
+
 ### 1.1.1 (2022-01-09)
 
 Fixes:
