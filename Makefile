@@ -6,7 +6,9 @@ DATA =	\
 	softvisio_cron--1.1.1--1.2.0.sql \
 	softvisio_cron--1.2.0.sql \
 	softvisio_cron--1.2.0--1.3.0.sql \
-	softvisio_cron--1.3.0.sql
+	softvisio_cron--1.3.0.sql \
+	softvisio_cron--1.3.0--1.4.0.sql \
+	softvisio_cron--1.4.0.sql
 
 PG_CONFIG = pg_config
 PGXS := $(shell $(PG_CONFIG) --pgxs)
