@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.4.0 (2022-01-09)
+
+Features:
+
+-   feat: last_run_error
+
 ### 1.3.0 (2022-01-09)
 
 Features:
