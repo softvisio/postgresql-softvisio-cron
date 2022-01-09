@@ -3,7 +3,7 @@
 ## Install / update / drop
 
 ```
-CREATE EXTENSION softvisio_cron;
+CREATE EXTENSION IF NOT EXISTS softvisio_cron;
 
 ALTER EXTENSION softvisio_cron UPDATE;
 
