@@ -1,6 +1,6 @@
 {
     "name": "postgresql-softvisio-cron",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "private": true,
     "description": "PostgreSQL cron schema",
     "keywords": [

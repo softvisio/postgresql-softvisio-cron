@@ -1,5 +1,15 @@
 # Changelog
 
+### 1.5.0 (2022-02-21)
+
+Features:
+
+-   feat: metadata update
+
+Fixes:
+
+-   fix: version update
+
 ### 1.4.0 (2022-01-09)
 
 Features:
